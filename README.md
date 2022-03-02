@@ -1,4 +1,4 @@
-# flutter_example_fetch_data_from_api_rest
+# flutter example fetch data from api rest
 
 An example flutter app that displays user data from JSON using http get request
 
